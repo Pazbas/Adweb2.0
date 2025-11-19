@@ -1,0 +1,95 @@
+
+
+body {
+  background: linear-gradient(
+      rgba(28, 116, 204, 0.7),
+      rgba(0, 30, 60, 0.7)
+    ),
+    url("..//assets/images/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar {
+  background-color: rgba(116, 161, 215, 0.95) !important;
+  backdrop-filter: blur(6px);
+  color: #ffffff;
+}
+
+
+.course-card {
+  border-radius: 15px;
+  overflow: hidden;
+  background-color: #ffffff;
+  color: #333;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.course-card:hover {
+  transform: scale(1.04);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+}
+
+.course-card img {
+  height: 180px;
+  object-fit: contain;
+  background-color: #fafafa;
+}
+
+
+.btn-primary {
+  background-color: #0056d2;
+  border-color: #004cb8;
+}
+
+.btn-primary:hover {
+  background-color: #004cb8;
+}
+
+.btn-success {
+  background-color: #00b37e;
+  border-color: #00a16f;
+}
+
+.btn-success:hover {
+  background-color: #009665;
+}
+
+
+table {
+  background-color: #ffffff;
+  color: #333;
+}
+
+
+.cart-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #222;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+
+.login-card {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 15px;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.login-container {
+  background: linear-gradient(
+      rgba(93, 89, 143, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("../assets/images/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
