@@ -95,12 +95,12 @@ const products = ref([
   {
     name: "Curso de React",
     price: 100000,
-    image: "..//src/assets/images/react.jpg",
+    image: "./src/assets/images/react.jpg",
   },
   {
     name: "Curso de Angular",
     price: 100000,
-    image: "..//src/assets/images/angular.jpg",
+    image: "/src/assets/images/angular.jpg",
   },
   {
     name: "Curso de Node.js",
