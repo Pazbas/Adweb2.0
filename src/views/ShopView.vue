@@ -90,12 +90,12 @@ const products = ref([
   {
     name: "Curso de Vue 3",
     price: 100000,
-    image: "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/vue.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
   },
   {
     name: "Curso de React",
     price: 100000,
-    image: "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/react.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png",
   },
   {
     name: "Curso de Angular",
