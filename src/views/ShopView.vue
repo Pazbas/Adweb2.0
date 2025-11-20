@@ -90,7 +90,7 @@ const products = ref([
   {
     name: "Curso de Vue 3",
     price: 100000,
-    image: "..//src/assets/images/vue.jpg",
+    image: "src/assets/images/vue.jpg",
   },
   {
     name: "Curso de React",
