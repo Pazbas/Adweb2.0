@@ -100,25 +100,25 @@ const products = ref([
   {
     name: "Curso de Angular",
     price: 100000,
-    image: "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/angular.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/960px-Angular_gradient_logo.png",
   },
   {
     name: "Curso de Node.js",
     price: 100000,
     image:
-      "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/node.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png",
   },
   {
     name: "Curso de Firebase",
     price: 100000,
     image:
-      "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/firebase.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/120px-Firebase_icon.svg.png",
   },
   {
     name: "Curso de Python",
     price: 100000,
     image:
-      "https://github.com/Pazbas/Adweb2.0/blob/main/src/assets/images/python.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png",
   },
 ]);
 
