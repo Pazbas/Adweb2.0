@@ -90,35 +90,35 @@ const products = ref([
   {
     name: "Curso de Vue 3",
     price: 100000,
-    image: "../src/assets/images/vue.jpg",
+    image: "..//src/assets/images/vue.jpg",
   },
   {
     name: "Curso de React",
     price: 100000,
-    image: "../src/assets/images/react.jpg",
+    image: "..//src/assets/images/react.jpg",
   },
   {
     name: "Curso de Angular",
     price: 100000,
-    image: "../src/assets/images/angular.jpg",
+    image: "..//src/assets/images/angular.jpg",
   },
   {
     name: "Curso de Node.js",
     price: 100000,
     image:
-      "../src/assets/images/node.jpg",
+      "..//src/assets/images/node.jpg",
   },
   {
     name: "Curso de Firebase",
     price: 100000,
     image:
-      "../src/assets/images/firebase.jpg",
+      "..//src/assets/images/firebase.jpg",
   },
   {
     name: "Curso de Python",
     price: 100000,
     image:
-      "../src/assets/images/python.jpg",
+      "..//src/assets/images/python.jpg",
   },
 ]);
 
